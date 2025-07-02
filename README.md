@@ -1,2 +1,2 @@
 # testrepo
-IBM Data Science Git Tutorial 
+IBM Data Science Git Tutorial
